@@ -6,9 +6,9 @@
 
 Ver en [Netlify](https://laptop-portafolio-threejs.netlify.app/)
 
-## 🚀 LAptop 3d Portafolio
+## 🚀 Implementación de HTML embebido en un modelo 3D de laptop
 
-Implementando embebido de canvas html - manipulación del DOM en malla 3d
+Este proyecto demuestra la integración de contenido HTML dentro de un modelo 3D de una laptop, utilizando canvas y manipulación del DOM. El portafolio está embebido en la pantalla del modelo 3D, permitiendo una interacción visualmente atractiva y dinámica.
 
 ## Instalación
 
