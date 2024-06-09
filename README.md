@@ -1,8 +1,31 @@
-# React + Vite
+# Laptop 3D Portafolio - ThreeJs
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+| PC                                                                                                                                          |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="public/readme/laptop.gif" alt="Portal" /> | <img src="public/readme/laptop.gif" alt="ilaptop 3d" /> |
 
-Currently, two official plugins are available:
+Ver en [Netlify](https://laptop-portafolio-threejs.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 LAptop 3d Portafolio
+
+Implementando embebido de canvas html - manipulación del DOM en malla 3d
+
+## Instalación
+
+Solo debes copiar el repositorio tal como muestra la imagen
+
+<p align="center">
+  <img src="https://i.ibb.co/CPp0nX5/copiar-repo.gif" alt="Lección #6" />
+</p>
+
+luego ve a la terminal y haz un git clone tal como muestra la imagen
+
+<p align="center">
+  <img src="https://i.ibb.co/Z63C7mf/clonar-repo-1.gif" alt="Lección #6" />
+</p>
+
+Ingresas a la carpeta descargada (clonada) y ejecutala con **npm run start**
+
+## Happy Coding
+
+Sientete libre de hacer los cambios que creas pertinentes.

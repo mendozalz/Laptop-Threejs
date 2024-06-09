@@ -18,6 +18,7 @@ const HtmlComponent = () => {
           marginTop: "-5px",
           overflow: "hidden",
           borderRadius: "23px 23px 0 0",
+          backgroundColor:"white"
         }}
         position={[0, 12.851, -5.38028]}
       >

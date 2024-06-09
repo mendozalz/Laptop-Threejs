@@ -1,5 +1,5 @@
 
-import { useGLTF } from '@react-three/drei'
+import { Html, useGLTF } from '@react-three/drei'
 import HtmlComponent from './Html'
 import { useFrame } from '@react-three/fiber';
 import { useRef } from 'react';
@@ -28,6 +28,20 @@ export function Laptop(props) {
         geometry={nodes.Screen.geometry}
         material={materials.Screen}
       >
+        <Html
+        className="imagenLaptop"
+        transform
+        style={{
+          width: "916px",
+          height: "647px",
+          marginTop: "-5px",
+          overflow: "hidden",
+          borderRadius: "23px 23px 0 0",
+          display:"grid",
+          placeItems: "center"
+        }}
+        position={[0, 12.851, -5.38028]}
+      ><img style={{transform:"rotateY(180deg)"}} src="./LENIN_PNG_Mesa de trabajo 1.png"/></Html>
        <HtmlComponent/>
       </mesh>
       <mesh
